@@ -26,7 +26,7 @@ Whether you're out gaming, napping, or simply ignoring your wallet, the AFK Rewa
 This contract has been successfully deployed on the **CoreDAO Testnet**, a blockchain known for its scalability and decentralization. Below are the deployment details for verification and reference.
 
 * **Network**: CoreDAO Testnet
-* **Contract Address**: `0x8062Af...0e00D8c1`
+* **Contract Address**: `0x8062afd10532dbe3afba573f8f2614740e00d8c1`
 * **Deployed By**: `0x5e920dbef6d56f0e574c4f4aa9e44a7133fa8901`
 * **Transaction Hash**: `0xed605dad893396b3b2df08efc4fb33bd9e732eb0bd4604ed0d6abeca09238cb7`
 * **Block**: `5016022`
