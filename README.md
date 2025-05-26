@@ -34,7 +34,7 @@ This contract has been successfully deployed on the **CoreDAO Testnet**, a block
 
 ### 📷 Deployment Confirmation Screenshot
 
-[image](https://github.com/user-attachments/assets/568dbc45-d379-476e-b54f-36cdb6f9f742)
+![image](https://github.com/user-attachments/assets/568dbc45-d379-476e-b54f-36cdb6f9f742)
 
 
 ---
