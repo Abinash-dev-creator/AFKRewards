@@ -72,7 +72,7 @@ The goal is to turn inactivity into a fun mechanic that could be expanded with t
 ### Prerequisites:
 
 * MetaMask wallet connected to CoreDAO Testnet
-* Remix IDE or any Web3 frontend (optional)
+* Remix IDE 
 
 ### Steps:
 
