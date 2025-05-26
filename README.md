@@ -34,7 +34,7 @@ This contract has been successfully deployed on the **CoreDAO Testnet**, a block
 
 ### 📷 Deployment Confirmation Screenshot
 
-![AFK Rewards Deployment](![image](https://github.com/user-attachments/assets/b85634b8-3eac-4d53-997f-d5873639df27)
+![AFK Rewards Deployment](WhatsApp Image 2025-05-26 at 14.32.28_614d45a6.jpg)
 )
 
 ---
